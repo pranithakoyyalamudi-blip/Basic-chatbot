@@ -1,0 +1,8 @@
+# CodeAlpha_Basic_Chatbot Dependencies
+#
+# Core Engine & Desktop GUI:
+# The CLI (main.py) and Desktop GUI (gui.py) use Python standard library only
+# (sys, datetime, random, time, tkinter). No third-party packages required!
+#
+# Optional Web UI (app.py):
+streamlit>=1.30.0
