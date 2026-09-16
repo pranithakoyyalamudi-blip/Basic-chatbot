@@ -62,4 +62,4 @@ The chatbot asks the user for their name and uses it during the conversation.
 
 👤 You: pranitha
 
-🤖 Bot: Nice to meet you, Harsha!
+🤖 Bot: Nice to meet you, Pranitha!
